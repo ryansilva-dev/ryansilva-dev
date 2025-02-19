@@ -1,4 +1,5 @@
-## Olá! Eu Me Chamo Ryan Silva, Sou um programador de software estagiário com conhecimento em JavaScript, HTML, CSS. Meu objetivo na carreira é me tornar um desenvolvedor full-stack, buscando sempre aprender e aprimorar minhas habilidades para criar soluções inovadoras e impactantes.
+##Olá, meu nome é Ryan Silva e sou um programador de software, Tenho conhecimentos em JavaScript, HTML, CSS, PHP, SQL, C, C++ e em ambientes como XAMPP. Tenho como objetivo me tornar um desenvolvedor full-stack e estou sempre buscando aprender e aprimorar minhas habilidades para criar soluções inovadoras e impactantes.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
